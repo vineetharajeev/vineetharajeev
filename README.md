@@ -1,6 +1,6 @@
 # Hi, I'm Vineetha Rajeev Officially Vineetha P R..
 
-### Computer Science Engineering Student 💻
+### Computer Science Engineering Student 
 
 I'm a BTech Computer Science Engineering student interested in building practical projects and continuously improving my technical skills.
 
