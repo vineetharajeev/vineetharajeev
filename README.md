@@ -13,6 +13,8 @@ I'm a BTech Computer Science Engineering student interested in building practica
 * Matplotlib
 * Git & GitHub
 * Problem Solving
+* FastAPI
+
 
 ##  Projects
 
@@ -34,6 +36,11 @@ A Machine Learning project using Linear Regression to predict student scores bas
 * Machine Learning
 * Data Analytics
 * Software Development
+* Generative AI
+* REST APIs
+* Backend Development
+* AI Agents
+ * Database Management
 
 ## Goal
 
